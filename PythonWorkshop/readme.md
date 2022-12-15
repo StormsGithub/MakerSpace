@@ -19,6 +19,7 @@ Answers for all activities are available at [GITHUB LINK]
 **Commenting**
 
 Commenting is when you add text into the code that is ignored by the interpreter or compiler to help anybody reading it understand what is happening.
+- A useful comment is one that can describe what a component does or what its purpose is in the system.
 - For Python, you can start a comment with `#`
 - As you progress through the activities and complexity increases, try commenting your code. e.g:
  ```Python
@@ -27,10 +28,10 @@ Commenting is when you add text into the code that is ignored by the interpreter
 
 Some Code  # This is also a comment. The interpreter stops reading beyond the #
  ```
-- A useful comment is one that can describe what a component does or what its purpose is in the system.
 
 **Pseudo-Code**
 
 Pseudo-code is an important part of breaking down and solving a problem. While it may seem like an extra step here, it can save you countless hours when you’re smashing out a programming assessment!
-- Pseudo-code is a description of the steps needed to develop the program, algorithm, or system at hand, in plain language that is easy for humans to read, essentially building steps at a high level to make writing the code easier! There’s no specific syntax to follow, so you can write it out in whatever way helps you. 
+- Pseudo-code is a description of the steps needed to develop the program, algorithm, or system at hand, in plain language that is easy for humans to read, essentially building steps at a high level to make writing the code easier!
+- There’s no "right way" to do pseudo-code, so write it out in whatever way helps you. 
 - For some of the activities provided in this workshop, pseudo-code will be provided to help you start the problem.
